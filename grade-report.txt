@@ -40,3 +40,17 @@ There does not yet seem to be a solution for Exercise 4
 There does not yet seem to be a solution for Exercise 5
 
 Score: 0 / 5 = 0%
+
+=========================== lesson-05.ipynb ===========================
+
+There does not yet seem to be a solution for Exercise 1
+There does not yet seem to be a solution for Exercise 2
+There does not yet seem to be a solution for Exercise 3
+There does not yet seem to be a solution for Exercise 4
+There does not yet seem to be a solution for Exercise 5
+There does not yet seem to be a solution for Exercise 6
+There does not yet seem to be a solution for Exercise 7
+There does not yet seem to be a solution for Exercise 8
+There does not yet seem to be a solution for Exercise 9
+
+Score: 0 / 9 = 0%
