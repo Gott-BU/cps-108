@@ -15,9 +15,9 @@ c.create_rectangle(0,0,800,500,fill="#5cac2d")     #green
 c.create_rectangle(a+550,b,a+600,b+300,fill="#fac205")     #goldenrod
 c.create_rectangle(a,b,a+50,b+300,fill="#7e1e9c")     #purple
 
-c.create_rectangle(a,b,a+600,b+300,width=5,outline="#ffffff")
+#Yardlines and out of bounds
+c.create_rectangle(a,b,a+600,b+300,width=7,outline="#ffffff")
 
-#Yardlines
 for x in range(175,626,25):
     c.create_line(x,b,x,b+w,width=2,fill='#ffffff')
 
