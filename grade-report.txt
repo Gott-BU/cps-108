@@ -19,18 +19,10 @@ Score: 4 / 5 = 80%
 
 =========================== lesson-05.ipynb ===========================
 
-The solution for Exercise 5 does not yet produce the correct output.
-The solution for Exercise 6 does not yet produce the correct output.
 The solution for Exercise 9 does not yet produce the correct output.
 
-Score: 6 / 9 = 66%
+Score: 8 / 9 = 88%
 
 =========================== lesson-06.ipynb ===========================
 
-The solution for Exercise 4 does not yet produce the correct output.
-The solution for Exercise 5 does not yet produce the correct output.
-The solution for Exercise 6 does not yet produce the correct output.
-The solution for Exercise 7 does not yet produce the correct output.
-The solution for Exercise 8 does not yet produce the correct output.
-
-Score: 5 / 10 = 50%
+Score: 10 / 10 = 100%
