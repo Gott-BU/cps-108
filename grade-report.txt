@@ -29,14 +29,9 @@ Score: 10 / 10 = 100%
 
 =========================== lesson-07.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
-There does not yet seem to be a solution for Exercise 2
-There does not yet seem to be a solution for Exercise 3
-There does not yet seem to be a solution for Exercise 4
-There does not yet seem to be a solution for Exercise 5
-There does not yet seem to be a solution for Exercise 6
+The solution for Exercise 6 does not yet produce the correct output.
 
-Score: 0 / 6 = 0%
+Score: 5 / 6 = 83%
 
 =========================== lesson-08.ipynb ===========================
 
