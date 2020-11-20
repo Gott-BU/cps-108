@@ -55,9 +55,7 @@ Score: 0 / 5 = 0%
 
 =========================== lesson-10.ipynb ===========================
 
-The solution for Exercise 5 does not yet produce the correct output.
-
-Score: 4 / 5 = 80%
+Score: 5 / 5 = 100%
 
 =========================== lesson-11.ipynb ===========================
 
